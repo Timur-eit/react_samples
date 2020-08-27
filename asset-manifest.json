@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/src/gradient/static/css/main.db7a8522.chunk.css",
+    "main.js": "/src/gradient/static/js/main.2028e170.chunk.js",
+    "main.js.map": "/src/gradient/static/js/main.2028e170.chunk.js.map",
+    "runtime-main.js": "/src/gradient/static/js/runtime-main.649c2687.js",
+    "runtime-main.js.map": "/src/gradient/static/js/runtime-main.649c2687.js.map",
+    "static/js/2.cb5a36f9.chunk.js": "/src/gradient/static/js/2.cb5a36f9.chunk.js",
+    "static/js/2.cb5a36f9.chunk.js.map": "/src/gradient/static/js/2.cb5a36f9.chunk.js.map",
+    "index.html": "/src/gradient/index.html",
+    "precache-manifest.cea876db94ba36f251fb2f0cf2f0f4a8.js": "/src/gradient/precache-manifest.cea876db94ba36f251fb2f0cf2f0f4a8.js",
+    "service-worker.js": "/src/gradient/service-worker.js",
+    "static/css/main.db7a8522.chunk.css.map": "/src/gradient/static/css/main.db7a8522.chunk.css.map",
+    "static/js/2.cb5a36f9.chunk.js.LICENSE.txt": "/src/gradient/static/js/2.cb5a36f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.649c2687.js",
+    "static/js/2.cb5a36f9.chunk.js",
+    "static/css/main.db7a8522.chunk.css",
+    "static/js/main.2028e170.chunk.js"
+  ]
+}
