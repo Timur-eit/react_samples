@@ -7,7 +7,26 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+#root {
+  min-height: 100vh;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.color-panel {
+  display: flex;
+  padding: 10px;
+  background-color: darkgray;
+  color: black;  
+  height: 100vh;
+  align-items: flex-start;
+  margin: 0 auto;
+}
+
+label, button .color-panel {
+  margin-right: 20px;
+}
+
+select {
+  margin-left: 5px;
 }
