@@ -82,10 +82,6 @@ const pokemons = [
     name: "rattata",
     id: "19"
   },
-  {
-    name: "raticate",
-    id: "20"
-  }
 ];
 
 export function App() {
