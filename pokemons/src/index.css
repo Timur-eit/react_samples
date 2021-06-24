@@ -47,4 +47,5 @@ body {
   width: 96px;
   height: 19px;
   text-transform: uppercase;
+  cursor: pointer;
 }
